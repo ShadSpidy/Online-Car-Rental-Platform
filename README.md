@@ -24,4 +24,4 @@ The Online Car Rental Platform is a user-friendly application that allows custom
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShadSpidy/online-car-rental-platform.git
+   https://github.com/ShadSpidy/online-car-rental-platform.git
