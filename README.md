@@ -10,7 +10,7 @@ The Online Car Rental Platform is a user-friendly application that allows custom
 - **Billing Calculation**: Automatically calculates the total bill based on the rental duration and mode.
 - **Rented Cars Tracking**: View which cars are currently rented and by whom.
 
-## Technologies Used
+## Technologies
 - Python
 - Object-Oriented Programming (OOP)
 - Datetime for handling rental durations
@@ -30,7 +30,7 @@ The Online Car Rental Platform is a user-friendly application that allows custom
 
 ## Author
 
-- **Created by:** Shadman
+- **Created by:** Shadman Akhter
 - **Email:** shadmanakhter78@gmail.com
 
 Feel free to reach out for feedback!
