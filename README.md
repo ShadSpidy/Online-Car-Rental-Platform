@@ -1,9 +1,9 @@
 # Online Car Rental Platform
 
-## Overview
 The Online Car Rental Platform is a user-friendly application that allows customers to rent cars on an hourly, daily, or weekly basis. Built using Python, this project leverages object-oriented programming principles to create a scalable and maintainable solution for car rental services.
 
 ## Features
+
 - **Car Inventory Management**: Displays available cars for rental.
 - **Flexible Rental Options**: Rent cars on an hourly, daily, or weekly basis.
 - **Customer Management**: Allows multiple customers to rent and return cars.
@@ -15,13 +15,22 @@ The Online Car Rental Platform is a user-friendly application that allows custom
 - Object-Oriented Programming (OOP)
 - Datetime for handling rental durations
 
-## Getting Started
+#Clone the repository:
+   - `git clone https://github.com/ShadSpidy/online-car-rental-platform.git`
 
-### Prerequisites
-- Python 3.x installed on your machine
-- Clone this repository to your local machine
+## Usage
 
-### Installation
-1. Clone the repository:
-   ```bash
-   https://github.com/ShadSpidy/online-car-rental-platform.git
+- Follow the on-screen menu to display available cars, rent a car, return a car, or view rented cars.
+- Input your customer name, rental mode, and the number of cars to rent or return as prompted.
+
+## Code Structure
+
+- **car_rental.py:** Contains the core classes CarRental and Customer for managing the rental service.
+- **main_car_rental.py:** The main application script that runs the user interface.
+
+## Author
+
+- **Created by:** Shadman
+- **Email:** shadmanakhter78@gmail.com
+
+Feel free to reach out for feedback!
